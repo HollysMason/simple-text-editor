@@ -1,0 +1,19 @@
+.DataMuse {
+    width: 20%
+}
+
+.DataMuse ul {
+    max-width: 250px;
+    width: 100%;
+    height: 350px;
+    overflow-y: scroll;
+    background: rgba(33,33,33,0.5);
+}
+
+.DataMuse li {
+    max-width: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
